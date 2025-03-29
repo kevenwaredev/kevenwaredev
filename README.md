@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, Eu sou Keven Timbó</h1>
-<h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas</h3>
+<h3 align="center">Tecnólogo em Analise e Desenvolvimento de Sistemas</h3>
 
 Tecnólogo em Análise e Desenvolvimento de Sistemas - UNINASSAU
 <h3 align="left">Me Encontre em:</h3>
