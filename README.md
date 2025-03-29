@@ -1,8 +1,7 @@
 <h1 align="center">Olá 👋, Eu sou Keven Timbó</h1>
 <h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas</h3>
 
-- 🌱 Estou atualmente cursando **ADS na Uninassau**
-
+Tecnólogo em Análise e Desenvolvimento de Sistemas - UNINASSAU
 <h3 align="left">Me Encontre em:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/keventimbodev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="keventimbodev" height="30" width="40" /></a>
